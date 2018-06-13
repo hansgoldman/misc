@@ -1,2 +1,2 @@
-# misc
+# Code-Snippets
 Miscellaneous code snippets
