@@ -2,9 +2,9 @@
 # Filename: list_aws_instances.py
 #
 # Description: Prints a list of all EC2 instances with basic information for
-#   each across all regions. Requires that you have set up a IAM user with
-#   appropriate permissions and set your AWS Access Key ID and Secret Access Key
-#   for that user in the .aws/credentials file.
+#   each instance across all regions. Requires that you have set up a IAM user
+#   with appropriate permissions and set your AWS Access Key ID and Secret
+#   Access Key for that user in the .aws/credentials file.
 #
 # Author:             Hans Goldman
 # Create Date:        08/05/2018
