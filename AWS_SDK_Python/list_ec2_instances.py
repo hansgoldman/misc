@@ -1,5 +1,5 @@
 ################################################################################
-# Filename: list_aws_instances.py
+# Filename: list_ec2_instances.py
 #
 # Description: Prints a list of all EC2 instances with basic information for
 #   each instance across all regions. Requires that you have set up a IAM user
